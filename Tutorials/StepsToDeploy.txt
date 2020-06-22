@@ -1,0 +1,25 @@
+1. install Azure Dev. package in Visual Studio
+
+2. create an App Service plan with the student plan
+
+3. right click properties in VS 
+
+4. Publish
+
+5. Select the Ressource Group, service plan
+
+6. configure database ie Azure SQL Database
+(host the data on cloud)
+
+
+7. In Azure Dev. Portal: Set Firewall Settings
+Add Client IP 
+
+8. Follow the tutorial
+Connect Azure SQL Server with SSSMS
+Recreate the Table "Teacher"
+Find it from the Queries folder from the Project
+
+9. Launch the App
+
+https://mvccrudteacherapp2020.azurewebsites.net/
